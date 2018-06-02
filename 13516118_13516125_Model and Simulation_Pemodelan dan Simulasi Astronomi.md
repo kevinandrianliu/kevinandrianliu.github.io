@@ -161,17 +161,17 @@ Kevin - Apa itu Astronomi dan Celeste
 Aldo - Planetarium
 
 ### Referensi :
-http://www.skyandtelescope.com/astronomy-resources/whats-difference-astrology-vs-astronomy
-https://www.spacetelescope.org/projects/fits_liberator/improc/
-https://ivanbatara.wordpress.com/2009/02/23/bintang-berjalan/
-http://proceedings.mlr.press/v37/regier15.pdf
-http://www.dictionary.com/browse/passband
-http://www.astro.caltech.edu/~george/ay122/Bessel2005ARAA43p293.pdf
-http://star-www.rl.ac.uk/docs/sc6.htx/sc6se7.html
-https://www.viva.co.id/gaya-hidup/travel/689279-mengunjungi-planetarium-tertua-di-dunia
-https://zenosphere.wordpress.com/2014/08/30/astronomi-open-source-lewat-stellarium/
-https://sinta.unud.ac.id/uploads/wisuda/1204205006-3-bab%202.pdf
-http://tipsandtrick-chipunk.blogspot.com/2014/01/stellarium-sebagai-media-pembelajaran.html
-https://www.cnnindonesia.com/teknologi/20170105114413-199-184251/astronom-klaim-temukan-sumber-suara-misterius-dari-antariksa
-https://ilmualamkita.wordpress.com/2010/12/20/galaksi/
+http://www.skyandtelescope.com/astronomy-resources/whats-difference-astrology-vs-astronomy(http://www.skyandtelescope.com/astronomy-resources/whats-difference-astrology-vs-astronomy)
+https://www.spacetelescope.org/projects/fits_liberator/improc/(https://www.spacetelescope.org/projects/fits_liberator/improc/)
+https://ivanbatara.wordpress.com/2009/02/23/bintang-berjalan/(https://ivanbatara.wordpress.com/2009/02/23/bintang-berjalan/)
+http://proceedings.mlr.press/v37/regier15.pdf(http://proceedings.mlr.press/v37/regier15.pdf)
+http://www.dictionary.com/browse/passband(http://www.dictionary.com/browse/passband)
+http://www.astro.caltech.edu/~george/ay122/Bessel2005ARAA43p293.pdf(http://www.astro.caltech.edu/~george/ay122/Bessel2005ARAA43p293.pdf)
+http://star-www.rl.ac.uk/docs/sc6.htx/sc6se7.html(http://star-www.rl.ac.uk/docs/sc6.htx/sc6se7.html)
+https://www.viva.co.id/gaya-hidup/travel/689279-mengunjungi-planetarium-tertua-di-dunia(https://www.viva.co.id/gaya-hidup/travel/689279-mengunjungi-planetarium-tertua-di-dunia)
+https://zenosphere.wordpress.com/2014/08/30/astronomi-open-source-lewat-stellarium/(https://zenosphere.wordpress.com/2014/08/30/astronomi-open-source-lewat-stellarium/)
+https://sinta.unud.ac.id/uploads/wisuda/1204205006-3-bab%202.pdf(https://sinta.unud.ac.id/uploads/wisuda/1204205006-3-bab%202.pdf)
+http://tipsandtrick-chipunk.blogspot.com/2014/01/stellarium-sebagai-media-pembelajaran.html(http://tipsandtrick-chipunk.blogspot.com/2014/01/stellarium-sebagai-media-pembelajaran.html)
+https://www.cnnindonesia.com/teknologi/20170105114413-199-184251/astronom-klaim-temukan-sumber-suara-misterius-dari-antariksa(https://www.cnnindonesia.com/teknologi/20170105114413-199-184251/astronom-klaim-temukan-sumber-suara-misterius-dari-antariksa)
+https://ilmualamkita.wordpress.com/2010/12/20/galaksi/(https://ilmualamkita.wordpress.com/2010/12/20/galaksi/)
 
