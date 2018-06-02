@@ -10,7 +10,7 @@ entitas yang berada di luar bumi.
 Pemodelan dan simulasi yang akan dibahas di artikel ini terdiri dari Celeste dan planetarium,
 sebagai model dan simulasi untuk menggambarkan posisi dan pergerakan objek-objek langit di
 alam semesta.
-
+![Gambar 1. Gambar Celeste](langit malam)
 ### Berkenalan dengan Celeste: Latar Belakang
 Manusia sejak zaman dahulu dibekali dengan keinginan untuk melihat angkasa luar, memahami
 bagaimana pada malam hari terbentuk suatu pemandangan indah yang terbentuk jauh di atas
