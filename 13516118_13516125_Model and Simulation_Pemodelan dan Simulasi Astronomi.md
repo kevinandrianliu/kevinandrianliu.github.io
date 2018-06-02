@@ -20,6 +20,7 @@ tetapi untuk menggambarkan objek-objek langit secara jelas dengan tingkat keakur
 tinggi itu sulit. Salah satu teknik yang digunakan untuk mengatasi masalah tersebut adalah
 penggunaan foto antariksa.
 ![Gambar 1. Gambar orang yang penasaran dengan dunia antariksa](/image9.jpg)
+
 Gambar 1. Gambar orang yang penasaran dengan dunia antariksa
 
 Foto antariksa bukanlah sekedar foto dengan menggunakan kamera biasa yang sering kita
@@ -77,8 +78,8 @@ radiasi dari sebuah galaksi di langit yang terdiri dari prototipe eksponensial u
 galaksi spiral dan de Vaucouleur untuk pemodelan galaksi eliptikal dan secara matematis
 digambarkan dengan Gaussian yang terdiri dari mean dan matriks kovariansi yang berbeda
 sesuai dengan ukurannya.
-
 ![Gambar 4. Model Celeste](/image5.png)
+
 Gambar 4. Model Celeste
 
 Model Celeste digambarkan seperti pada gambar 4. *Field* menyatakan bagian dari langit yang
@@ -99,6 +100,7 @@ memperlihatkan pergerakan benda-benda langit khususnya sistem tata surya seperti
 planet , bulan dan bintang. Alat peraga ini merupakan contoh pemodelan dan simulasi
 pergerakan benda-benda langit pada zaman dahulu.
 ![Gambar 5: Alat peraga mekanik sistem tata surya](/image7.png)
+
 Gambar 5: Alat peraga mekanik sistem tata surya
 
 Seiring perkembangan zaman, alat ini berkembang menjadi sebuah ruangan dengan atap
@@ -141,6 +143,7 @@ langit melalui konsep Copernicus atau Galileo dan mengatur keseluruhan gerakan u
 dianalisa pengamat. Pertunjukan berlangsung dengan diiringi musik. Materi pertunjukan
 bisa berbeda-beda tergantung pada judul pertunjukan dan jadwal.
 ![Gambar 7 : Proyektor Planetarium](/image3.png)
+
 Gambar 7 : Proyektor Planetarium
 
 ### Kubah dan Sistem Operasi Planetarium
