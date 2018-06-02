@@ -10,7 +10,7 @@ entitas yang berada di luar bumi.
 Pemodelan dan simulasi yang akan dibahas di artikel ini terdiri dari Celeste dan planetarium,
 sebagai model dan simulasi untuk menggambarkan posisi dan pergerakan objek-objek langit di
 alam semesta.
-![Gambar 1. Gambar Celeste](langit malam)
+
 ### Berkenalan dengan Celeste: Latar Belakang
 Manusia sejak zaman dahulu dibekali dengan keinginan untuk melihat angkasa luar, memahami
 bagaimana pada malam hari terbentuk suatu pemandangan indah yang terbentuk jauh di atas
@@ -19,6 +19,8 @@ keadaan apa yang terjadi. Mereka ingin membuat suatu memori tentang kejadian ter
 tetapi untuk menggambarkan objek-objek langit secara jelas dengan tingkat keakuratan yang
 tinggi itu sulit. Salah satu teknik yang digunakan untuk mengatasi masalah tersebut adalah
 penggunaan foto antariksa.
+![Gambar 1. Gambar orang yang penasaran dengan dunia antariksa](/image9.jpg)
+Gambar 1. Gambar orang yang penasaran dengan dunia antariksa
 
 Foto antariksa bukanlah sekedar foto dengan menggunakan kamera biasa yang sering kita
 gunakan. Foto antariksa dibuat dengan kamera detektor khusus penangkap foton dan
@@ -27,6 +29,8 @@ gelombang cahaya. Setiap detektor memiliki tingkat cahaya tertentu yang dapat di
 Ketika cahaya dengan panjang gelombang tertentu masuk ke dalam teleskop, ia akan
 ditangkap oleh detektor pada teleskop tersebut sesuai dengan panjang gelombangnya dan
 sensitivitas dari teleskop tersebut.
+![Gambar 2. Foto Antariksa](/image2.jpg)
+Gambar 2. Foto Antariksa
 
 Terkadang, foto antariksa diambil untuk mengamati suatu objek langit tertentu. Permasalahan
 yang dapat timbul adalah objek langit tersebut berada pada jarak yang sangat jauh sehingga
@@ -45,6 +49,8 @@ Bintang pada umumnya lebih terang daripada galaksi, meskipun bintang mengalami f
 pelepasan foton yang menyebabkan kita sering melihat bintang berkelap-kelip di langit. Ukuran
 bintang jauh lebih kecil daripada galaksi, sehingga sering digambarkan sebagai titik dalam foto
 antrariksa.
+![Gambar 3. Gambar Galaksi](/image6.jpg)
+Gambar 3. Gambar Galaksi
 
 ### Berkenalan dengan Celeste: Melihat Model Celeste
 Sekelompok ahli yang terdiri dari Jeffrey Regier, University of California; Andrew Miller, Harvard
@@ -72,6 +78,9 @@ galaksi spiral dan de Vaucouleur untuk pemodelan galaksi eliptikal dan secara ma
 digambarkan dengan Gaussian yang terdiri dari mean dan matriks kovariansi yang berbeda
 sesuai dengan ukurannya.
 
+![Gambar 4. Model Celeste](/image5.png)
+Gambar 4. Model Celeste
+
 Model Celeste digambarkan seperti pada gambar 4. *Field* menyatakan bagian dari langit yang
 sedang menjadi pembicaraan. Langit terdiri dari beberapa *field* yang dapat saling
 tumpang-tindih satu sama lainnya. Untuk setiap *field*, difoto beberapa kali, sekali untuk setiap
@@ -89,6 +98,8 @@ Pada zaman dahulu, manusia membuat suatu alat peraga mekanik untuk mensimulasika
 memperlihatkan pergerakan benda-benda langit khususnya sistem tata surya seperti matahari,
 planet , bulan dan bintang. Alat peraga ini merupakan contoh pemodelan dan simulasi
 pergerakan benda-benda langit pada zaman dahulu.
+![Gambar 5: Alat peraga mekanik sistem tata surya](/image7.png)
+Gambar 5: Alat peraga mekanik sistem tata surya
 
 Seiring perkembangan zaman, alat ini berkembang menjadi sebuah ruangan dengan atap
 berbentuk kubah untuk mensimulasikan keadaan langit yang sebenarnya dipandang dari segala
@@ -98,6 +109,8 @@ Eisinga, seorang tukang pembuat *wool* ada abad ke 18. Planetarium Eisinga masih
 berupa simulasi bagaimana sistem tata surya kita bergerak. Planetarium Eisinga ini menjadi
 planetarium tertua yang terletak hanya di sebuah ruang tamu kecil dari dua rumah yang
 menyatu di sebuah kota bernama Franeker, Belanda.
+![Gambar 6 : Planetarium Eisinga](/image8.png)
+Gambar 6 : Planetarium Eisinga
 
 Saat ini, planetarium bekerja mensimulasikan pergerakan benda-benda langit menggunakan
 proyektor dan layar yang berupa kubah dari planetarium itu sendiri. Layar berupa kubah
@@ -127,6 +140,8 @@ manapun di antariksa. Sistem ini mendemonstrasikan sudut pandang normal bumi ke
 langit melalui konsep Copernicus atau Galileo dan mengatur keseluruhan gerakan untuk
 dianalisa pengamat. Pertunjukan berlangsung dengan diiringi musik. Materi pertunjukan
 bisa berbeda-beda tergantung pada judul pertunjukan dan jadwal.
+![Gambar 7 : Proyektor Planetarium](/image3.png)
+Gambar 7 : Proyektor Planetarium
 
 ### Kubah dan Sistem Operasi Planetarium
 Kubah difungsikan sebagai layar berbentuk setengah lingkaran yang dipantulkan oleh
@@ -141,6 +156,8 @@ Cinematrix, yang mengirimkan informasi kepada prosesor grafis SGI. SGI bertugas 
 data melalui MIDI kepada Sistem Interaktif Audio. Dan lagi, planetarium mengoperasikan
 sebuah sistem multimedia independen dengan sistem grafis vektor (Digistar) dan banyak audio,
 video dan peralatan proyeksi *slide* yang dikendalikan dengan komputer.
+![Gambar 8: Kubah Planetarium](/image1.png)
+Gambar 8: Kubah Planetarium
 
 ### *Software* Planetarium
 Di era modern saat ini, segala sesuatu terutama yang berkaitan dengan menggambarkan,
@@ -155,6 +172,8 @@ ini merupakan *software open source* planetarium yang dapat memperlihatkan langi
 tampilan tiga dimensi (3D), seperti apa yang terlihat ketika dalam keadaan mata telanjang, atau
 memakai teropong, maupun teleskop dengan letak koordinat dan waktu yang dapat kita
 tentukan.
+![Gambar 9 : Contoh penampakan langit pada aplikasi Stellarium](/image4.png)
+Gambar 9 : Contoh penampakan langit pada aplikasi Stellarium
 
 ### Pembagian Tugas
 Kevin - Apa itu Astronomi dan Celeste
